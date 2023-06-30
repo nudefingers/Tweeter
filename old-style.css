@@ -13,7 +13,7 @@ body{
     "h .""i b""p p"
 }
 
-#header{
+#header{ /**/
     grid-area: h;
     color: #3498db;
 }
